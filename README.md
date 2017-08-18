@@ -1,7 +1,7 @@
 # Algorithms
 In mathematics and computer science, an algorithm is a self-contained sequence of actions to be performed. The following are implementation of some algorithms. The following are implementation for many algorithms and problems solution.
 
-### Sorting Algorthims-
+### Sorting Algorithms-
 
 ##### 1. Selection Sort
   - Best Ω(n^2) -	Average θ(n^2) -	Worst O(n^2). [implementation](). 
